@@ -1,3 +1,15 @@
 body{
     background-color: rgba(255, 218, 185, 0.466);
 }
+
+h1{
+    text-align: center;
+    margin-top: 5rem;
+}
+p{
+    text-align: center;
+    height:150px;
+    width: 650px;
+    margin-left: 23.5rem;
+    margin-top: 3rem;
+}
