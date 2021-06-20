@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Heading from './Heading/Heading';
+import Card from './Card/Card'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <Heading />
+    <Card/>
   </React.StrictMode>,
   document.getElementById('root')
 );

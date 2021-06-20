@@ -1,0 +1,91 @@
+.pCard{
+    margin-top: 1rem;
+    margin-left: -17rem;
+    color: gray;
+}
+.card1{
+    text-align: center;
+    border: 1px solid rgba(240, 223, 208, 0.178);
+    background-color: rgb(255, 218, 185);
+    height: 300px;
+    width: 250px;
+    margin-left: 7rem;
+}
+.h2card1{
+    margin-top: -8rem;
+}
+
+.imgCard1{
+    margin-top: 2rem;
+    margin-left:-9rem ;
+}
+.arrow1{
+    margin-left: -5rem;
+}
+.card1:hover{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+}
+/* Card 2 */
+
+.card2{
+    text-align: center;
+    border: 1px solid rgba(240, 223, 208, 0.178);
+    background-color: rgb(255, 218, 185);
+    height: 300px;
+    width: 250px;
+    margin-left: 26rem;
+    margin-top: -19rem;
+}
+.card2:hover{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+}
+/* Card 3 */
+.card3{
+    text-align: center;
+    border: 1px solid rgba(240, 223, 208, 0.178);
+    background-color: rgb(255, 218, 185);
+    height: 300px;
+    width: 250px;
+    margin-left: 46rem;
+    margin-top: -19rem;
+}
+.card3:hover{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+}
+
+/* Card 4 */
+.card4{
+    text-align: center;
+    border: 1px solid rgba(240, 223, 208, 0.178);
+    background-color: rgb(255, 218, 185);
+    height: 300px;
+    width: 250px;
+    margin-left: 65rem;
+    margin-top: -19rem;
+}
+.card4:hover{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+}
+.Learn{
+    margin-top: 1rem;
+    height: 20px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 3rem;
+    margin-left: 38rem;
+    border: 1px solid pink;
+    margin-right: 64rem;
+    padding: 1rem 1rem 1rem 1rem;
+    background-color: #6261F6;
+    border-radius: 3rem;
+    color: white ;
+}
